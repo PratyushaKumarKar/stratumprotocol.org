@@ -41,7 +41,6 @@
     "vuepress-plugin-sitemap": "2.3.1"
   },
   "dependencies": {
-    "markdown-it": "^13.0.1"
-    "vue-i18n": "^8.18.0"  
+    "markdown-it": "^13.0.1" 
   }
 }
